@@ -26,11 +26,21 @@ This tool automatically logs you into **Lovely Professional University Wi-Fi** w
 
 ## ✅ **Step 1 — Search “Chrome Web Store” in Chrome**
 
+
+
+
+
 ![Step 1](<img width="1701" height="812" alt="Screenshot 2025-11-21 194938" src="https://github.com/user-attachments/assets/46e2691f-c85b-4270-a350-cac35da1b20d" />
 
 ---
 
 ## ✅ **Step 2 — Open Chrome Web Store & Search “Tampermonkey”**
+
+
+
+
+
+
 
 ![Step 2](<img width="1088" height="365" alt="Screenshot 2025-11-21 194946" src="https://github.com/user-attachments/assets/0c96439a-6dc0-44e5-a1b1-cd58796ab14e" />
 
@@ -42,6 +52,11 @@ This tool automatically logs you into **Lovely Professional University Wi-Fi** w
 
 Click **Add to Chrome → Add Extension**
 
+
+
+
+
+
 ![Step 3](<img width="404" height="122" alt="Screenshot 2025-11-21 195055" src="https://github.com/user-attachments/assets/65367623-cf07-41e6-b896-61883a7d8022" />
 <img width="1826" height="541" alt="Screenshot 2025-11-21 195123" src="https://github.com/user-attachments/assets/bfdf2f4c-0df5-4444-bdbe-bb74788387e5" />
 
@@ -50,6 +65,11 @@ Click **Add to Chrome → Add Extension**
 ## ✅ **Step 4 — Pin Tampermonkey Extension**
 
 Click the puzzle icon → Click the pin icon
+
+
+
+
+
 
 
 ![Step 4](<img width="1919" height="678" alt="Screenshot 2025-11-21 195109" src="https://github.com/user-attachments/assets/951e8a79-92e1-43df-9a29-3e9c7f71ea12" />
@@ -62,11 +82,21 @@ Click the puzzle icon → Click the pin icon
 
 Click the RAW script link below:
 
+
+
+
+
+
 👉 **Direct Install Link:**  
 https://raw.githubusercontent.com/shivansh01-24/lpu-autologin/main/lpu-autologin.encrypted.noprompt.user.js
 
 
 OR
+
+
+
+
+
 
 <img width="1881" height="842" alt="Screenshot 2025-11-21 195156" src="https://github.com/user-attachments/assets/3a828881-fdfe-4a34-9ebd-bf93e6e6a253" />
 <img width="1902" height="812" alt="Screenshot 2025-11-21 195204" src="https://github.com/user-attachments/assets/40bcf936-39fe-4b4c-bea5-3f8020cfac13" />
@@ -76,6 +106,11 @@ OR
 Tampermonkey will automatically show:
 
 **“Install Userscript?” → Click Install**
+
+
+
+
+
 
 ![Step 5](<img width="1911" height="899" alt="image" src="https://github.com/user-attachments/assets/eba57830-06a5-4a5f-92bd-3be5b23ab2e4" />
 
@@ -90,6 +125,11 @@ Tampermonkey will automatically show:
 
 It will redirect you to the login portal.
 
+
+
+
+
+
 ![Step 6](<img width="1898" height="950" alt="Screenshot 2025-11-21 195331" src="https://github.com/user-attachments/assets/9cf19806-b7d7-430d-829d-00c97b1c5145" />
 
 
@@ -101,6 +141,12 @@ It will redirect you to the login portal.
 2. Select **LPU AutoLogin Script**  
 3. Click **Set UID & Password**  
 4. Enter your LPU UID (1240xxx) & password(xxxxxx)
+
+
+
+
+
+
 
 ![Step 7](<img width="1918" height="754" alt="Screenshot 2025-11-21 195348" src="https://github.com/user-attachments/assets/f8d6f8ff-c8b4-4b3a-93f1-e146e255be14" />
 <img width="1918" height="1011" alt="Screenshot 2025-11-21 195446" src="https://github.com/user-attachments/assets/1e141e1e-5328-40ca-a77d-adde17ed05d4" />
@@ -120,6 +166,11 @@ Now close the page and open the LPU login page again…
 
 Every time. Forever. No typing needed.
 
+
+
+
+
+
 ![Step 8](<img width="745" height="571" alt="Screenshot 2025-11-21 195533" src="https://github.com/user-attachments/assets/f65ded21-10c2-435c-a920-ca840fac12a9" />
 <img width="1919" height="897" alt="Screenshot 2025-11-21 195547" src="https://github.com/user-attachments/assets/bdcfc84d-f352-4584-a45c-7e96b7abaa8f" />
 
@@ -134,6 +185,11 @@ Update login details.
 
 ### ✔ **Clear Credentials**  
 Remove saved UID/password.
+
+
+
+
+
 <img width="1919" height="686" alt="Screenshot 2025-11-21 195600" src="https://github.com/user-attachments/assets/3e323182-013b-4fc6-bc12-b31b942c5a60" />
 
 
